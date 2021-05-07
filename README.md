@@ -1,6 +1,6 @@
-##Projeto WhatsLab
+### Projeto WhatsLab
 
-###Sobre
+### Sobre
 MVP do WhatsLab, aplicativo de troca de mensagens para bater de frente com os gigantes que existem atualmente.
 
 Devs:
