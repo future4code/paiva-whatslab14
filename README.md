@@ -10,6 +10,7 @@ Devs:
 ### O que funciona
 - Envio de mensagens
 - Filtro de usuário através da utilização do usuário "eu"
+- Apagar mensagem com clique duplo
 
 ### O que não funciona
 - Armazenamento de mensagens(uma vez que a página é recarregada, as informações são perdidas)
